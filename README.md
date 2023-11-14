@@ -2,7 +2,7 @@
 
 ## Petunjuk Pengerjaan
 1. Buatlah suatu mini app **Berbasis React** untuk menulis task harian
-2. Implementasikan operasi CRUD pada task tersebut, hint: gunakan local state (useState)
+2. Implementasikan operasi CRUD pada task tersebut, hint: gunakan Context dan State seperti yang sudah dipelajari sebelumnya
 
    Rincian:
 
